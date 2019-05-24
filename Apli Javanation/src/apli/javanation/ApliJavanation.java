@@ -16,9 +16,7 @@ public class ApliJavanation {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("Hola mundo");
         
-        System.out.println ( "Cómo te va?");
     }
     
 }
